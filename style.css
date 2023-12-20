@@ -267,6 +267,7 @@ li{
   border-radius: 50%;
   height: 35px;
   width: 30px;
+  cursor: pointer;
 }
 
 .user-carter {
@@ -279,4 +280,8 @@ li{
 .image-info{
   font-size: 7px;
   font-style: italic;
+}
+
+.user-carter p {
+  cursor: pointer;
 }
